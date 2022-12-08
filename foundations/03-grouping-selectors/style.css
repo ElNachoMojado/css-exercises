@@ -1,0 +1,14 @@
+.bbox {
+    background-color: black;
+    color: white;
+}
+
+.ybox {
+    background-color: yellow;
+}
+
+.bbox,
+.ybox {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}

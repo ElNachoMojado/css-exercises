@@ -1,0 +1,19 @@
+p {
+    background-color:lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blu {
+    color: blue;
+    font-size: 36px;
+}
+
+#gr {
+    background-color:chartreuse;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.third {
+    font-size: 36px;
+}
